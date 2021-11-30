@@ -196,7 +196,7 @@ async def upload(m, bot, chat_id, dir):
 					InlineKeyboardButton("📡Chennal", url="https://t.me/AK_CREATION_7")
 				],
 				[
-					InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
+					InlineKeyboardButton("🔗Source Code", url="https://github.com/ARJUNKASREJA/Instagram-Bot"),
                     InlineKeyboardButton("⚡️Update Channel", url="https://t.me/AK_CREATION_7")
 				]
 			]
