@@ -45,8 +45,8 @@ async def login(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122")
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/AK_CREATION7'),
+						InlineKeyboardButton("📡Chennal", url="https://t.me/AK_CREATION_7")
 					],
                     [
                         InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),
@@ -173,8 +173,8 @@ async def logout(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122")
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/AK_CREATION7'),
+						InlineKeyboardButton("📡Chennal", url="https://t.me/AK_CREATION_7")
 					],
                     [
                         InlineKeyboardButton("🔗Source Code", url="https://github.com/subinps/Instagram-Bot"),

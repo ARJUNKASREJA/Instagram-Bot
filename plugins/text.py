@@ -47,8 +47,8 @@ async def account(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122"),
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/AK_CREATION7'),
+						InlineKeyboardButton("📡Chennal", url="https://t.me/AK_CREATION_7"),
                         
 					],
                     [
@@ -57,7 +57,7 @@ async def account(bot, message):
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-                        InlineKeyboardButton("⚙️Update Channel", url="https://t.me/subin_works")
+                        InlineKeyboardButton("⚙️Update Channel", url="https://t.me/AK_CREATION_7")
 
                     ]
 					
@@ -129,8 +129,8 @@ async def _insta_post_batch(bot, message):
 			reply_markup=InlineKeyboardMarkup(
 				[
 					[
-						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/subinps'),
-						InlineKeyboardButton("🤖Other Bots", url="https://t.me/subin_works/122"),
+						InlineKeyboardButton("👨🏼‍💻Developer", url='https://t.me/AK_CREATION7'),
+						InlineKeyboardButton("📡Chennal", url="https://t.me/AK_CREATION_7"),
                         
 					],
                     [
@@ -139,7 +139,7 @@ async def _insta_post_batch(bot, message):
                     ],
                     [
                         InlineKeyboardButton("👨🏼‍🦯How To Use?", callback_data="help#subin"),
-                        InlineKeyboardButton("⚙️Update Channel", url="https://t.me/subin_works")
+                        InlineKeyboardButton("⚙️Update Channel", url="https://t.me/AK_CREATION_7")
 
                     ]
 					
